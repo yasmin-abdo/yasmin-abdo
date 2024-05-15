@@ -1,5 +1,5 @@
 Olá, tudo bem? 👋
-Me chamo Yasmin Abdo
+Me chamo Yasmin Abdo mas pode me chamar de "Yas"
 
 Estudo Programção🤓
 
