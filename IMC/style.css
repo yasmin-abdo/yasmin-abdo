@@ -1,0 +1,70 @@
+
+.geral{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 19px;
+}
+
+.homem{
+    padding: 30px;
+    background-color:#c9e2ee ;
+    margin: 20px;
+    border-radius: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+h2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column; /*isso é oq deixa ele em pé*/
+}
+
+.mulher{
+    padding: 30px;
+    background-color: #ba87cf57;
+    margin: 20px;
+    border-radius: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+header{
+    align-items: center;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+    background-color: #9194da;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.botao{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    padding:10px;
+    background-color: #9194da;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 50px;
+}
+
+input{
+    padding: 6px;
+    width: 200px;
+}
+
+
+.resultado{
+    width: 200px;
+    height: 50px;
+    background-color: aliceblue;
+    border: 1px black solid;
+    border-radius: 10px;
+    padding: 10px;
+}
